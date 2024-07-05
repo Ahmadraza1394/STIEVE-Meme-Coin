@@ -1,6 +1,6 @@
 # STEIVE-Meme-Coin
 
-Welcome to the STEIVE Meme Coin project! This project is a fun and entertaining meme coin website built with HTML, CSS, and JavaScript. Follow the instructions below to download, open, and run the project locally on your machine.
+Welcome to the STEIVE Meme Coin project! This project is a fun meme coin website built with HTML, CSS, and JavaScript. Follow the instructions below to download, open, and run the project locally on your machine.
 
 ## Getting Started
 
@@ -19,4 +19,4 @@ To run this project, you will need to have the following installed on your machi
 
    ```sh
    git clone https://github.com/Ahmadraza1394/STIEVE-Meme-Coin
-### If you face any issue ,contact me via whatsapp : +923238388294
+### If you face any issue,contact me via WhatsApp: +923238388294
