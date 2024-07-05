@@ -18,5 +18,5 @@ To run this project, you will need to have the following installed on your machi
    Open your terminal or command prompt and run the following command to clone the repository:
 
    ```sh
-   git clone https://github.com/your-username/STIEVE-Meme-Coin.git
+   git clone https://github.com/Ahmadraza1394/STIEVE-Meme-Coin
 ### If you face any issue ,contact me via whatsapp : +923238388294
